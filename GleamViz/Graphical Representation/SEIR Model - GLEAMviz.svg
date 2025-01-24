@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="197.556mm" height="155.575mm"
+ viewBox="0 0 560 441"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>1737633138785.CE0</title>
+<desc>Model SVG Export</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="560" height="441"/>
+</g>
+
+<g fill="#51b2b7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M150,28 C150,25.2386 152.239,23 155,23 L313,23 C315.761,23 318,25.2386 318,28 L318,74 C318,76.7614 315.761,79 313,79 L155,79 C152.239,79 150,76.7614 150,74 L150,28"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="214.5" y="54" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Susceptible</text>
+</g>
+
+<g fill="#ff5127" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M148,254 C148,251.239 150.239,249 153,249 L311,249 C313.761,249 316,251.239 316,254 L316,300 C316,302.761 313.761,305 311,305 L153,305 C150.239,305 148,302.761 148,300 L148,254"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="214.5" y="280" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Infectious</text>
+</g>
+
+<g fill="#f4ce17" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M149,149 C149,146.239 151.239,144 154,144 L312,144 C314.761,144 317,146.239 317,149 L317,195 C317,197.761 314.761,200 312,200 L154,200 C151.239,200 149,197.761 149,195 L149,149"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="219" y="175" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Exposed</text>
+</g>
+
+<g fill="#89c443" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M149,360 C149,357.239 151.239,355 154,355 L312,355 C314.761,355 317,357.239 317,360 L317,406 C317,408.761 314.761,411 312,411 L154,411 C151.239,411 149,408.761 149,406 L149,360"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="215" y="386" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Recovered</text>
+<polyline fill="none" vector-effect="none" points="233,144 234,79 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M233,144 L235.569,139.71 L230.572,139.629 L233,144"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="234,111 401,92 " />
+</g>
+
+<g fill="#ff5127" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M342,78 C342,75.2386 344.239,73 347,73 L455,73 C457.761,73 460,75.2386 460,78 L460,107 C460,109.761 457.761,112 455,112 L347,112 C344.239,112 342,109.761 342,107 L342,78"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="383.5" y="95.5" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Infectious</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="293" y="86" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >beta</text>
+<polyline fill="none" vector-effect="none" points="232,249 233,200 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M232,249 L234.59,244.723 L229.594,244.617 L232,249"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="242" y="224" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >epsilon</text>
+<polyline fill="none" vector-effect="none" points="233,355 232,305 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M233,355 L235.415,350.622 L230.418,350.718 L233,355"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="242" y="330" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >mu</text>
+</g>
+</g>
+</svg>

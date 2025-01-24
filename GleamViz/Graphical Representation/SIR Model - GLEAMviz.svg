@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="202.142mm" height="154.164mm"
+ viewBox="0 0 573 437"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>1737633135271.CE0</title>
+<desc>Model SVG Export</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="573" height="437"/>
+</g>
+
+<g fill="#89c443" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M138,356 C138,353.239 140.239,351 143,351 L301,351 C303.761,351 306,353.239 306,356 L306,402 C306,404.761 303.761,407 301,407 L143,407 C140.239,407 138,404.761 138,402 L138,356"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="204" y="382" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Recovered</text>
+</g>
+
+<g fill="#ff5127" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M138,217 C138,214.239 140.239,212 143,212 L301,212 C303.761,212 306,214.239 306,217 L306,263 C306,265.761 303.761,268 301,268 L143,268 C140.239,268 138,265.761 138,263 L138,217"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="204.5" y="243" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Infectious</text>
+</g>
+
+<g fill="#51b2b7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M138,77 C138,74.2386 140.239,72 143,72 L301,72 C303.761,72 306,74.2386 306,77 L306,123 C306,125.761 303.761,128 301,128 L143,128 C140.239,128 138,125.761 138,123 L138,77"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.5" y="103" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Susceptible</text>
+<polyline fill="none" vector-effect="none" points="222,212 222,128 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M222,212 L224.502,207.671 L219.505,207.667 L222,212"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="222,170 414,148 " />
+</g>
+
+<g fill="#ff5127" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M355,134 C355,131.239 357.239,129 360,129 L468,129 C470.761,129 473,131.239 473,134 L473,163 C473,165.761 470.761,168 468,168 L360,168 C357.239,168 355,165.761 355,163 L355,134"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="396.5" y="151.5" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >Infectious</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="306" y="142" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >beta</text>
+<polyline fill="none" vector-effect="none" points="222,351 222,268 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M222,351 L224.502,346.671 L219.505,346.667 L222,351"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="309" font-family="MS Shell Dlg 2" font-size="7.8" font-weight="400" font-style="normal" 
+ >mu</text>
+</g>
+</g>
+</svg>
